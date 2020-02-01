@@ -4,7 +4,7 @@
     "name" : "Nike Shoes",
     "category" : "shoes",
     "price" : "250 $",
-    "photo" : "running-shoe.jpg",
+    "photo" : "https://raw.githubusercontent.com/fadiabb87/homework4/master/running-shoe.jpg",
     "info" : "comfort runnig shoes"
 
 },
@@ -14,7 +14,7 @@
     "name" : "Adidas Shoes",
     "category" : "shoes",
     "price" : "199 $",
-    "photo" : "addidas1.jpg",
+    "photo" : "https://raw.githubusercontent.com/fadiabb87/homework4/master/addidas1.jpg",
     "info" : "comfort runnig shoes"
 
 },
@@ -24,7 +24,7 @@
     "name" : "Rebuke Shoes",
     "category" : "shoes",
     "price" : "158 $",
-    "photo" : "rebuke1_.jpg",
+    "photo" : "https://raw.githubusercontent.com/fadiabb87/homework4/master/rebuke1_.jpg",
     "info" : "comfort runnig shoes"
 
 },
@@ -34,7 +34,7 @@
     "name" : "Pumma Shoes",
     "category" : "shoes",
     "price" : "299 $",
-    "photo" : "https://github.com/fadiabb87/homework4/blob/master/pumma1.jpg",
+    "photo" : "https://raw.githubusercontent.com/fadiabb87/homework4/master/pumma1.jpg",
     "info" : "comfort runnig shoes"
 
 },
@@ -44,7 +44,7 @@
     "name" : "adidas Tshirt",
     "category" : "tshirts",
     "price" : "59 $",
-    "photo" : "adidas-tshirt.jpg",
+    "photo" : "https://raw.githubusercontent.com/fadiabb87/homework4/master/adidas-tshirt.jpg",
     "info" : "special dryfit tshirt"
 
 },
@@ -54,7 +54,7 @@
     "name" : "pumma Tshirt",
     "category" : "tshirts",
     "price" : "39 $",
-    "photo" : "redirect-257.jpg",
+    "photo" : "https://raw.githubusercontent.com/fadiabb87/homework4/master/redirect-257.jpg",
     "info" : "special dryfit tshirt"
 
 },
@@ -64,7 +64,7 @@
     "name" : "Nike Tshirt",
     "category" : "tshirts",
     "price" : "79 $",
-    "photo" : "niki-ts.jpg",
+    "photo" : "https://raw.githubusercontent.com/fadiabb87/homework4/master/niki-ts.jpg",
     "info" : "special dryfit tshirt"
 
 },
@@ -74,7 +74,7 @@
     "name" : "rebuke Tshirt",
     "category" : "tshirts",
     "price" : "19 $",
-    "photo" : "rebuke1.jpg",
+    "photo" : "https://raw.githubusercontent.com/fadiabb87/homework4/master/rebuke1.jpg",
     "info" : "special dryfit tshirt"
 
 }
