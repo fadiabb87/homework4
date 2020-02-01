@@ -1,6 +1,4 @@
-{
-"products" : [
-{
+[
     "itemId" : "110",
     "name" : "Nike Shoes",
     "category" : "shoes",
@@ -82,7 +80,7 @@
 
 
 ]
-}
+
 
 
 
