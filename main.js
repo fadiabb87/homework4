@@ -16,7 +16,7 @@ function getitems(category) {
 
     $.ajax({
         method: "GET",
-        url: "https://github.com/fadiabb87/homework4/blob/master/products.json",
+        url: "products.json",
         dataType: "json"
     }).done(function(data){
         $.each(data, function(i, item){
