@@ -3,7 +3,7 @@
 {
     "itemId" : "110",
     "name" : "Nike Shoes",
-    "catigory" : "shoes",
+    "category" : "shoes",
     "price" : "250 $",
     "photo" : "running-shoe.jpg",
     "info" : "comfort runnig shoes"
@@ -13,7 +13,7 @@
 {
     "itemId" : "111",
     "name" : "Adidas Shoes",
-    "catigory" : "shoes",
+    "category" : "shoes",
     "price" : "199 $",
     "photo" : "addidas1.jpg",
     "info" : "comfort runnig shoes"
@@ -23,7 +23,7 @@
 {
     "itemId" : "112",
     "name" : "Rebuke Shoes",
-    "catigory" : "shoes",
+    "category" : "shoes",
     "price" : "158 $",
     "photo" : "rebuke1_.jpg",
     "info" : "comfort runnig shoes"
@@ -33,7 +33,7 @@
 {
     "itemId" : "113",
     "name" : "Pumma Shoes",
-    "catigory" : "shoes",
+    "category" : "shoes",
     "price" : "299 $",
     "photo" : "pumma1.jpg",
     "info" : "comfort runnig shoes"
@@ -43,7 +43,7 @@
 {
     "itemId" : "114",
     "name" : "adidas Tshirt",
-    "catigory" : "tshirts",
+    "category" : "tshirts",
     "price" : "59 $",
     "photo" : "adidas-tshirt.jpg",
     "info" : "special dryfit tshirt"
@@ -53,7 +53,7 @@
 {
     "itemId" : "115",
     "name" : "pumma Tshirt",
-    "catigory" : "tshirts",
+    "category" : "tshirts",
     "price" : "39 $",
     "photo" : "redirect-257.jpg",
     "info" : "special dryfit tshirt"
@@ -63,7 +63,7 @@
 {
     "itemId" : "116",
     "name" : "Nike Tshirt",
-    "catigory" : "tshirts",
+    "category" : "tshirts",
     "price" : "79 $",
     "photo" : "niki-ts.jpg",
     "info" : "special dryfit tshirt"
@@ -73,7 +73,7 @@
 {
     "itemId" : "117",
     "name" : "rebuke Tshirt",
-    "catigory" : "tshirts",
+    "category" : "tshirts",
     "price" : "19 $",
     "photo" : "rebuke1.jpg",
     "info" : "special dryfit tshirt"
