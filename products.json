@@ -34,7 +34,7 @@
     "name" : "Pumma Shoes",
     "category" : "shoes",
     "price" : "299 $",
-    "photo" : "pumma1.jpg",
+    "photo" : "https://github.com/fadiabb87/homework4/blob/master/pumma1.jpg",
     "info" : "comfort runnig shoes"
 
 },
